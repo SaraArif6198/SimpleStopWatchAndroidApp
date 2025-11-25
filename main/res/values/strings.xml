@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stopwatch App</string>
+    <string name="default_time">00:00:00</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="footer_text">Made with ❤️ by Sara Arif (https://www.linkedin.com/in/sara-arif-792p/)</string>
+    <string name="app_heading">STOP WATCH</string>
+</resources>
