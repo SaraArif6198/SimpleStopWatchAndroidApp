@@ -21,14 +21,18 @@ A simple **Android Stopwatch application** that allows users to **start, pause, 
 
 ## 🖼 Screenshots
 
-*(Add your screenshots below for visualization)*
-
 <table>
 <tr>
 <td>
 
-**Stopwatch Main Screen**<br>
-<img src="https://via.placeholder.com/300x600.png?text=Stopwatch+Screen" width="300"/>
+**Stopwatch Main Layout**<br>
+<img src="https://github.com/SaraArif6198/SimpleStopWatchAndroidApp/raw/main/WhatsApp%20Image%202025-11-25%20at%2020.44.17_7950f632.jpg" width="300"/>
+
+</td>
+<td>
+
+**Stopwatch Running**<br>
+<img src="https://github.com/SaraArif6198/SimpleStopWatchAndroidApp/raw/main/WhatsApp%20Image%202025-11-25%20at%2020.44.16_d6dce503.jpg" width="300"/>
 
 </td>
 </tr>
